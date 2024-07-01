@@ -11,14 +11,14 @@
     html{margin-left: 150px;
     margin-right: 150px;}
     
-#pattern{background-color: rgb(30, 30, 219);
-height: 120px;}
-
-#container{position:relative;}
-#logo{position: absolute;
-    width: 300px;
-    height:90px;}
-
+    .pattern{background-color: rgb(104, 104, 206);
+        height: 120px;}
+        
+        #container{position:relative;}
+        #logo{position: absolute;
+            width: 200px;
+            height:90px;
+        margin-top:12px;}
 
 
         
