@@ -20,6 +20,18 @@
             height:90px;
         margin-top:12px;}
 
+        #overlay-text1{background-image: url(../img/monitor.jpg);
+        height:220px;
+        width:300px;
+        color:aliceblue;
+        font-size: 14px;;}
+
+
+        #overlay-text2{background-image: url(../img/graph.jpg);
+            height:220px;
+            width:300px;
+            color:aliceblue;
+            font-size: 14px;;}
 
         
         
