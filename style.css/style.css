@@ -1,10 +1,18 @@
-.info-article{
+.color-grey{
     color: #898989}
     
     a{text-decoration: none;}
     
     #date{font-size: 80%;
     color: #898989}
+    
     .highlighted{background-color: yellow;}
 
-   
+    html{margin-left: 150px;
+    margin-right: 150px;}
+
+
+        
+        
+        
+
